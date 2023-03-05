@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: olivedrab;
+    padding:10px ;
+    border: orangered 1px solid;
+    border-radius: 11px;
+}
+
+.yfcnz {
+    text-align:center; 
+    color:brown;
+    font-size: 51px;
+}
+footer p{
+    background-color: chartreuse;
+    padding: 10px;
+
+} 
+nav{
+    background-color: rgb(131, 142, 35);
+padding:20px ;
+border: rgb(5, 5, 0) 1px solid;
+border-radius: 11px;
+text-align:center ;
+}
+nav a{
+    text-align: center;
+    border: orchid 1px solid; 
+    background-color: purple;
+    color: white;
+    padding: 5px;
+}
+
+.prod {
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h2 {
+    color: cadetblue;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+a{
+    color: chartreuse;
+    font-size: 25 px;
+}
